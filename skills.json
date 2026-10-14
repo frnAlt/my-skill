@@ -1,0 +1,28 @@
+{
+  "entries": [
+    {
+      "path": "skills"
+    },
+    {
+      "path": "plugins/bot-api-scraping-tls-skills/skills"
+    },
+    {
+      "path": "plugins/python-nodejs-automation-skills/skills"
+    },
+    {
+      "path": "plugins/android-rom-and-gradle-skills/skills"
+    },
+    {
+      "path": "plugins/superpowers/skills"
+    },
+    {
+      "path": "plugins/sentry-skills/skills"
+    },
+    {
+      "path": "plugins/anthropic-skills/skills"
+    },
+    {
+      "path": "plugins/vercel-web-skills/skills"
+    }
+  ]
+}

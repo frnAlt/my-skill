@@ -1,0 +1,17 @@
+{
+  "name": "android-rom-and-gradle-skills",
+  "displayName": "Android Apps, Gradle, ADB & Custom ROM Skills",
+  "version": "1.0.0",
+  "description": "Comprehensive engineering skills for Android app development, Gradle builds, ADB device orchestration, Fastboot, and Custom ROM / Device Tree engineering",
+  "category": "Mobile Development",
+  "keywords": [
+    "android",
+    "gradle",
+    "adb",
+    "fastboot",
+    "aosp",
+    "lineageos",
+    "custom-rom",
+    "device-tree"
+  ]
+}

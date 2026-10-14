@@ -1,0 +1,21 @@
+{
+  "name": "bot-api-scraping-tls-skills",
+  "displayName": "Node.js Bots, Scraping, APIs, SSL/TLS & Repair Skills",
+  "version": "1.0.0",
+  "description": "High-performance skills for Node.js bot engineering, Playwright/Puppeteer scraping, API integration, SSL/TLS diagnostics, automated debugging, and GitHub CI/CD",
+  "category": "Backend & DevOps",
+  "keywords": [
+    "nodejs",
+    "bots",
+    "scraping",
+    "playwright",
+    "puppeteer",
+    "api",
+    "ssl",
+    "tls",
+    "https",
+    "debugging",
+    "repair",
+    "github-actions"
+  ]
+}

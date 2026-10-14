@@ -1,0 +1,8 @@
+{
+  "name": "vercel-web-skills",
+  "displayName": "Vercel Web Development Skills",
+  "version": "1.0.0",
+  "description": "Production performance and architecture guidelines for React, Next.js App Router, React Native, and modern web applications",
+  "homepage": "https://github.com/vercel-labs/agent-skills",
+  "repository": "https://github.com/vercel-labs/agent-skills"
+}

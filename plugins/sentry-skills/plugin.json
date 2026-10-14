@@ -1,0 +1,8 @@
+{
+  "name": "sentry-skills",
+  "displayName": "Sentry Engineering Skills",
+  "version": "1.0.0",
+  "description": "Production-grade engineering skills for security review, bug finding, Git workflows, and GitHub CI/CD",
+  "homepage": "https://github.com/getsentry/skills",
+  "repository": "https://github.com/getsentry/skills"
+}

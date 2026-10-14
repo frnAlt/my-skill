@@ -1,0 +1,8 @@
+{
+  "name": "anthropic-skills",
+  "displayName": "Anthropic Skills",
+  "version": "1.0.0",
+  "description": "Anthropic official agent skills collection for software engineering, testing, webapps, and document processing",
+  "homepage": "https://github.com/anthropics/skills",
+  "repository": "https://github.com/anthropics/skills"
+}
